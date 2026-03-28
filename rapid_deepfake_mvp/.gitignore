@@ -1,0 +1,17 @@
+# Ignore temporary uploads and generated heatmaps
+temp_uploads/
+temp_heatmaps/
+
+# Python cache and byte-compiled files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environments
+venv/
+env/
+.env
+
+# OS generated files
+.DS_Store
+Thumbs.db
